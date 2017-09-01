@@ -1,1 +1,9 @@
-Este archivo será utilizado para emular modificaciones para el proyecto colaborativo. Héctor Escoto.
+﻿Este archivo será utilizado para emular modificaciones para el proyecto colaborativo. Héctor Escoto.
+
+Carlos Tinajero.
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/IC707912/tarea_colaborativo
+
+https://github.com/IC709723/tarea_colaborativo"
